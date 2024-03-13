@@ -1,0 +1,43 @@
+Added Component: Designator=U?(QFN100_19.6_669_58X10_SMD)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "STM32F407VET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "LQFP100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F407VGT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "STM32F407VGT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "ARROW"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TIM1_CH1 Pin=U?-40
+Added Net: Name=TIM1_CH1
+Added Pin To Net: NetName=TIM1_CH2 Pin=U?-42
+Added Net: Name=TIM1_CH2
+Added Pin To Net: NetName=TIM1_CH3 Pin=U?-44
+Added Net: Name=TIM1_CH3
+Added Pin To Net: NetName=TIM1_CH4 Pin=U?-45
+Added Net: Name=TIM1_CH4
+Added Pin To Net: NetName=TIM3_CH1 Pin=U?-31
+Added Net: Name=TIM3_CH1
+Added Pin To Net: NetName=TIM3_CH2 Pin=U?-32
+Added Net: Name=TIM3_CH2
+Added Pin To Net: NetName=TIM3_CH3 Pin=U?-35
+Added Net: Name=TIM3_CH3
+Added Pin To Net: NetName=TIM3_CH4 Pin=U?-36
+Added Net: Name=TIM3_CH4
+Added Pin To Net: NetName=Trig1_1 Pin=U?-39
+Added Net: Name=Trig1_1
+Added Pin To Net: NetName=Trig1_3 Pin=U?-43
+Added Net: Name=Trig1_3
+Added Pin To Net: NetName=Trig1_4 Pin=U?-46
+Added Net: Name=Trig1_4
+Added Pin To Net: NetName=Trig3_1 Pin=U?-30
+Added Net: Name=Trig3_1
+Added Pin To Net: NetName=Trig3_2 Pin=U?-33
+Added Net: Name=Trig3_2
+Added Pin To Net: NetName=Trig3_3 Pin=U?-34
+Added Net: Name=Trig3_3
+Added Pin To Net: NetName=Trig3_4 Pin=U?-37
+Added Net: Name=Trig3_4
+Added Pin To Net: NetName=USART1_RX Pin=U?-69
+Added Net: Name=USART1_RX
+Added Pin To Net: NetName=USART1_TX Pin=U?-68
+Added Net: Name=USART1_TX
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

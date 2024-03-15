@@ -1,0 +1,24 @@
+Move Component(s) Origin to Grid
+Filename     : E:\Lu?n van\Project Altium\Mach_ra_chan\PCB1.PcbDoc
+Date         : 3/15/2024
+Time         : 10:51:26 PM
+Time Elapsed : 00:00:00
+
+
+    DIP Component JP2-JP 2x20 2.54 (48.031mm,68.961mm) on Top Layer - Component pads are OFF grid. No action taken.
+    DIP Component JP3-JP 2x20 2.54 (90.5mm,68.885mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component JP1-JP 1x1 2.54 (55.677mm,104.496mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component JACK DC2-JACK DC 5.5 (7.62mm,16.231mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component JACK DC1-JACK DC 5.5 (143.307mm,107.315mm) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component H1-Header 2P 2.54 Duc Thang (32.766mm,105.004mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component H9-Header 4P 2.54 Duc Thang (124.79mm,43.485mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component H5-Header 4P 2.54 Duc Thang (124.968mm,79.553mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component H4-Header 4P 2.54 Duc Thang (19.812mm,81.28mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component H7-Header 4P 2.54 Duc Thang (124.13mm,66.116mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component H8-Header 4P 2.54 Duc Thang (19.71mm,46.253mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component H6-Header 4P 2.54 Duc Thang (19.939mm,64.592mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component H2-Header 4P 2.54 Duc Thang (66.319mm,108.331mm) on Top Layer - Component pads are OFF grid. No action taken.
+    SIP Component H3-Header 4P 2.54 Duc Thang (114.579mm,109.245mm) on Top Layer - Component pads are OFF grid. No action taken.
+    DIP Component JP4-JP 2x5 2.54 (48.158mm,34.722mm) on Top Layer - Component pads are OFF grid. No action taken.
+    DIP Component JP5-JP 2x5 2.54 (89.332mm,34.849mm) on Top Layer - Component pads are OFF grid. No action taken.
+count : 16

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=T4_CH3_B8 Pin=JP3-10
+Removed Pin From Net: NetName=Trig4_CH2_C11 Pin=JP3-22
+Removed Pin From Net: NetName=Trig4_CH1_B5 Pin=JP3-28
+Removed Pin From Net: NetName=T4_CH2_B7 Pin=JP3-29
+Removed Pin From Net: NetName=T4_CH1_B9 Pin=JP3-31
+Removed Pin From Net: NetName=Trig4_CH3_C15 Pin=JP3-36
+Removed Pin From Net: NetName=5V Pin=JP3-39
+Removed Pin From Net: NetName=GND Pin=JP3-40
+Removed Member From Class: ClassName=Sheet1 Member=JP3
+Added Component: Designator=JP?(JP 2x20 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Trig4_CH2_C11 Pin=JP?-2
+Added Pin To Net: NetName=Trig4_CH1_B5 Pin=JP?-8
+Added Pin To Net: NetName=T4_CH2_B7 Pin=JP?-9
+Added Pin To Net: NetName=T4_CH1_B9 Pin=JP?-11
+Added Pin To Net: NetName=Trig4_CH3_C15 Pin=JP?-16
+Added Pin To Net: NetName=5V Pin=JP?-19
+Added Pin To Net: NetName=GND Pin=JP?-20
+Added Pin To Net: NetName=T4_CH3_B8 Pin=JP?-30
+Added Member To Class: ClassName=Sheet1 Member=Component JP? JP 2x20 2.54
+Added Room: Name=Sheet1

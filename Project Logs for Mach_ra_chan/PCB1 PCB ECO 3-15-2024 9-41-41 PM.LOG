@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Trig4_CH2_C11 Pin=JP3-2
+Removed Pin From Net: NetName=Trig4_CH1_B5 Pin=JP3-8
+Removed Pin From Net: NetName=T4_CH2_B7 Pin=JP3-9
+Removed Pin From Net: NetName=T4_CH1_B9 Pin=JP3-11
+Removed Pin From Net: NetName=Trig4_CH3_C15 Pin=JP3-16
+Removed Pin From Net: NetName=5V Pin=JP3-19
+Removed Pin From Net: NetName=GND Pin=JP3-20
+Removed Pin From Net: NetName=T4_CH3_B8 Pin=JP3-30
+Added Pin To Net: NetName=T4_CH3_B8 Pin=JP3-11
+Added Pin To Net: NetName=GND Pin=JP3-21
+Added Pin To Net: NetName=5V Pin=JP3-22
+Added Pin To Net: NetName=Trig4_CH3_C15 Pin=JP3-25
+Added Pin To Net: NetName=T4_CH1_B9 Pin=JP3-30
+Added Pin To Net: NetName=T4_CH2_B7 Pin=JP3-32
+Added Pin To Net: NetName=Trig4_CH1_B5 Pin=JP3-33
+Added Pin To Net: NetName=Trig4_CH2_C11 Pin=JP3-39

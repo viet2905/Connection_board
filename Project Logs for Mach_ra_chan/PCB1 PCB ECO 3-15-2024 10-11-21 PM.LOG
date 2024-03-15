@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=Trig3_CH1_C4 Pin=JP2-11
+Removed Pin From Net: NetName=T3_CH1_A6 Pin=JP2-12
+Removed Pin From Net: NetName=RT_A2 Pin=JP2-14
+Removed Pin From Net: NetName=Relay_C1 Pin=JP2-24
+Removed Pin From Net: NetName=RX_A3 Pin=JP2-27
+Removed Pin From Net: NetName=T3_CH2_A7 Pin=JP2-29
+Removed Pin From Net: NetName=Trig3_CH2_C5 Pin=JP2-30
+Removed Pin From Net: NetName=T3_CH4_B1 Pin=JP2-31
+Removed Pin From Net: NetName=T1_CH3_E13 Pin=JP2-36
+Removed Pin From Net: NetName=Trig1_CH4_E15 Pin=JP2-37
+Added Pin To Net: NetName=Trig1_CH4_E15 Pin=JP2-4
+Added Pin To Net: NetName=T1_CH3_E13 Pin=JP2-5
+Added Pin To Net: NetName=T3_CH4_B1 Pin=JP2-10
+Added Pin To Net: NetName=Trig3_CH2_C5 Pin=JP2-11
+Added Pin To Net: NetName=T3_CH2_A7 Pin=JP2-12
+Added Pin To Net: NetName=RX_A3 Pin=JP2-14
+Added Pin To Net: NetName=Relay_C1 Pin=JP2-17
+Added Pin To Net: NetName=RT_A2 Pin=JP2-27
+Added Pin To Net: NetName=T3_CH1_A6 Pin=JP2-29
+Added Pin To Net: NetName=Trig3_CH1_C4 Pin=JP2-30
+Added Room: Name=Sheet1

@@ -1,0 +1,56 @@
+Protel Design System Design Rule Check
+PCB File : E:\Lu?n van\Project Altium\Mach_ra_chan\PCB1.PcbDoc
+Date     : 3/17/2024
+Time     : 6:05:46 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=39.37mil) (Preferred=20mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad JACK DC1-1(648.425mil,3567.323mil) on Multi-Layer Actual Slot Hole Width = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad JACK DC1-2(648.425mil,3817.323mil) on Multi-Layer Actual Slot Hole Width = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad JACK DC1-3(448.425mil,3667.323mil) on Multi-Layer Actual Slot Hole Width = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad JACK DC2-1(544.882mil,349.606mil) on Multi-Layer Actual Slot Hole Width = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad JACK DC2-2(544.882mil,99.606mil) on Multi-Layer Actual Slot Hole Width = 125.984mil
+   Violation between Hole Size Constraint: (125.984mil > 100mil) Pad JACK DC2-3(744.882mil,249.606mil) on Multi-Layer Actual Slot Hole Width = 125.984mil
+Rule Violations :6
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad JACK DC1-3(448.425mil,3667.323mil) on Multi-Layer And Track (468.425mil,3572.323mil)(468.425mil,4117.323mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad JACK DC2-3(744.882mil,249.606mil) on Multi-Layer And Track (724.882mil,-200.394mil)(724.882mil,344.606mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 8
+Waived Violations : 0
+Time Elapsed        : 00:00:01

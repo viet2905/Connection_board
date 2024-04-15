@@ -1,0 +1,72 @@
+Added Component: Designator=H10(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=H11(XH2.54M-4)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 4P XH2.54-4P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=H12(XH2.54M-5)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 5P XH2.54-5P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=H13(XH2.54M-3)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 3P XH2.54-3P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=H10-3
+Added Pin To Net: NetName=5V Pin=H10-4
+Added Pin To Net: NetName=GND Pin=H11-3
+Added Pin To Net: NetName=5V Pin=H11-4
+Added Pin To Net: NetName=GND Pin=H12-1
+Added Pin To Net: NetName=5V Pin=H12-5
+Change Net Name : Old Net Name=T4_CH1_B9 New Net Name=T4_CH4_B9
+Change Net Name : Old Net Name=Trig1_CH4_E11 New Net Name=Trig3_CH4_E11
+Change Net Name : Old Net Name=Trig4_CH1_E1 New Net Name=Trig4_CH4_E1
+Added Pin To Net: NetName=ENA1_A0 Pin=H11-2
+Added Pin To Net: NetName=ENA1_A0 Pin=JP2-26
+Added Net: Name=ENA1_A0
+Added Pin To Net: NetName=ENA2_A5 Pin=H10-2
+Added Pin To Net: NetName=ENA2_A5 Pin=JP2-13
+Added Net: Name=ENA2_A5
+Added Pin To Net: NetName=ENB1_A1 Pin=H11-1
+Added Pin To Net: NetName=ENB1_A1 Pin=JP2-15
+Added Net: Name=ENB1_A1
+Added Pin To Net: NetName=ENB2_B3 Pin=H10-1
+Added Pin To Net: NetName=ENB2_B3 Pin=JP3-34
+Added Net: Name=ENB2_B3
+Added Pin To Net: NetName=IN1_D12 Pin=H13-2
+Added Pin To Net: NetName=IN1_D12 Pin=JP4-9
+Added Net: Name=IN1_D12
+Added Pin To Net: NetName=IN2_D14 Pin=H13-1
+Added Pin To Net: NetName=IN2_D14 Pin=JP4-8
+Added Net: Name=IN2_D14
+Added Pin To Net: NetName=IN3_A15 Pin=H12-3
+Added Pin To Net: NetName=IN3_A15 Pin=JP3-1
+Added Net: Name=IN3_A15
+Added Pin To Net: NetName=IN4_C11 Pin=H12-2
+Added Pin To Net: NetName=IN4_C11 Pin=JP3-2
+Added Net: Name=IN4_C11
+Added Pin To Net: NetName=PWM1_E9 Pin=H13-3
+Added Pin To Net: NetName=PWM1_E9 Pin=JP2-7
+Added Net: Name=PWM1_E9
+Added Pin To Net: NetName=PWM2_A9 Pin=H12-4
+Added Pin To Net: NetName=PWM2_A9 Pin=JP5-9
+Added Net: Name=PWM2_A9
+Added Member To Class: ClassName=Sheet1 Member=Component H10 Encoder2
+Added Member To Class: ClassName=Sheet1 Member=Component H11 Encoder1
+Added Member To Class: ClassName=Sheet1 Member=Component H12 MOTOR2
+Added Member To Class: ClassName=Sheet1 Member=Component H13 MOTOR1
+Added Room: Name=Sheet1

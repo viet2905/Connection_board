@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=T4_CH3_B8 Pin=H7-2
+Removed Pin From Net: NetName=T4_CH2_B7 Pin=H9-2
+Added Pin To Net: NetName=T4_CH2_B7 Pin=H7-2
+Change Net Name : Old Net Name=Trig_T4_CH2_B3 New Net Name=Trig_T8_CH3_C8
+Change Net Name : Old Net Name=Trig_T4_CH3_B5 New Net Name=Trig_T4_CH2_B5
+Added Pin To Net: NetName=T8_CH3_C8 Pin=H9-2
+Added Pin To Net: NetName=T8_CH3_C8 Pin=JP7-8
+Added Net: Name=T8_CH3_C8
+Added Room: Name=Sheet1

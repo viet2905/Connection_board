@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PWM_R Pin=JP4-3
+Removed Pin From Net: NetName=PWM_L Pin=JP4-31
+Added Pin To Net: NetName=PWM_L Pin=JP4-3
+Added Pin To Net: NetName=PWM_R Pin=JP4-37
+Added Room: Name=Sheet1

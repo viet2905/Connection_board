@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=HC2 NewDesignator=H2
+Change Component Designator: OldDesignator=HC3 NewDesignator=H3
+Change Component Designator: OldDesignator=HC4 NewDesignator=H4
+Change Component Designator: OldDesignator=HC5 NewDesignator=H5
+Change Component Designator: OldDesignator=HC6 NewDesignator=H6
+Change Component Designator: OldDesignator=HC7 NewDesignator=H7
+Change Component Designator: OldDesignator=HC8 NewDesignator=H8
+Change Component Designator: OldDesignator=HC9 NewDesignator=H9
+Change Component Designator: OldDesignator=JACK DC 5V NewDesignator=JACK DC1
+Change Component Designator: OldDesignator=JACK DC 5V NewDesignator=JACK DC2
+Change Component Designator: OldDesignator=Relay NewDesignator=JP1
+Change Component Designator: OldDesignator=UART NewDesignator=H1
+Added Pin To Net: NetName=Trig4_CH3_C13 Pin=H3-3
+Added Pin To Net: NetName=Trig4_CH3_C13 Pin=JP3-26
+Added Net: Name=Trig4_CH3_C13
+Added Member To Class: ClassName=Sheet1 Member=Component JACK DC1 JACK DC 5.5
+Added Room: Name=Sheet1

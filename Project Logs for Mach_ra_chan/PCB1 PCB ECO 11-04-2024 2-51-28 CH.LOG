@@ -1,0 +1,168 @@
+Removed Pin From Net: NetName=GND Pin=H8-1
+Removed Pin From Net: NetName=5V Pin=H8-4
+Removed Pin From Net: NetName=GND Pin=H9-1
+Removed Pin From Net: NetName=5V Pin=H9-4
+Removed Pin From Net: NetName=GND Pin=H10-3
+Removed Pin From Net: NetName=5V Pin=H10-4
+Removed Pin From Net: NetName=GND Pin=H11-3
+Removed Pin From Net: NetName=5V Pin=H11-4
+Removed Pin From Net: NetName=GND Pin=H12-1
+Removed Pin From Net: NetName=5V Pin=H12-5
+Removed Pin From Net: NetName=5V Pin=JACK DC1-1
+Removed Pin From Net: NetName=GND Pin=JACK DC1-2
+Removed Pin From Net: NetName=GND Pin=JACK DC1-3
+Removed Member From Class: ClassName=Sheet1 Member=H10
+Removed Member From Class: ClassName=Sheet1 Member=H11
+Removed Member From Class: ClassName=Sheet1 Member=H12
+Removed Member From Class: ClassName=Sheet1 Member=H13
+Change Component Footprint: Designator=JP1 Old Footprint=JP 1x1 DT New Footprint=JP 1x3 CT
+Change Component Comment : Designator=JACK DC1 Old Comment=JACK DC 5.5 New Comment=JACK DC 12V
+Change Component Comment : Designator=JP1 Old Comment=JP 1x1 2.54 New Comment=JP 1x3 2.54
+Change Component Designator: OldDesignator=H2 NewDesignator=H3
+Change Component Designator: OldDesignator=H3 NewDesignator=H2
+Change Component Designator: OldDesignator=H4 NewDesignator=H6
+Change Component Designator: OldDesignator=H5 NewDesignator=H7
+Change Component Designator: OldDesignator=H6 NewDesignator=H8
+Change Component Designator: OldDesignator=H7 NewDesignator=H9
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP6
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP7
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "JP 1x1 DT"; UniqueID = "\ZMRNBTJX" ("\ZMRNBTJX")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=C1(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004769"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 220P 221 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004769"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 220P 221 50V"; VariantName = "[No Variations]"
+Added Component: Designator=H4(XH2.54M-6)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 6P XH2.54-6P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=H5(XH2.54M-6)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Header 6P XH2.54-6P Ð?c Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(JP 1x8 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(JP 1x8 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=T4_CH3_B8 Pin=H7-2
+Added Pin To Net: NetName=5V_HA Pin=C2-1
+Added Pin To Net: NetName=5V_HA Pin=H4-2
+Added Pin To Net: NetName=5V_HA Pin=H5-2
+Added Pin To Net: NetName=5V_HA Pin=JP1-3
+Added Pin To Net: NetName=5V_HA Pin=JP2-2
+Added Net: Name=5V_HA
+Added Pin To Net: NetName=12V Pin=C1-1
+Added Pin To Net: NetName=12V Pin=JACK DC1-1
+Added Pin To Net: NetName=12V Pin=JP1-1
+Added Pin To Net: NetName=12V Pin=JP2-1
+Added Net: Name=12V
+Added Pin To Net: NetName=ENA1_E9 Pin=H4-3
+Added Pin To Net: NetName=ENA1_E9 Pin=JP4-7
+Added Net: Name=ENA1_E9
+Added Pin To Net: NetName=ENA2_C6 Pin=H5-4
+Added Pin To Net: NetName=ENA2_C6 Pin=JP7-7
+Added Net: Name=ENA2_C6
+Added Pin To Net: NetName=ENB1_E11 Pin=H4-4
+Added Pin To Net: NetName=ENB1_E11 Pin=JP4-6
+Added Net: Name=ENB1_E11
+Added Pin To Net: NetName=ENB2_C7 Pin=H5-3
+Added Pin To Net: NetName=ENB2_C7 Pin=JP7-4
+Added Net: Name=ENB2_C7
+Added Pin To Net: NetName=GND_CL Pin=C1-2
+Added Pin To Net: NetName=GND_CL Pin=C2-2
+Added Pin To Net: NetName=GND_CL Pin=H4-5
+Added Pin To Net: NetName=GND_CL Pin=H5-5
+Added Pin To Net: NetName=GND_CL Pin=JACK DC1-2
+Added Pin To Net: NetName=GND_CL Pin=JACK DC1-3
+Added Pin To Net: NetName=GND_CL Pin=JP1-2
+Added Pin To Net: NetName=GND_CL Pin=JP3-8
+Added Net: Name=GND_CL
+Added Pin To Net: NetName=L1 Pin=JP3-3
+Added Pin To Net: NetName=L1 Pin=JP5-8
+Added Net: Name=L1
+Added Pin To Net: NetName=L2 Pin=JP3-2
+Added Pin To Net: NetName=L2 Pin=JP5-9
+Added Net: Name=L2
+Added Pin To Net: NetName=ML+ Pin=H4-1
+Added Pin To Net: NetName=ML+ Pin=JP2-4
+Added Net: Name=ML+
+Added Pin To Net: NetName=ML- Pin=H4-6
+Added Pin To Net: NetName=ML- Pin=JP2-5
+Added Net: Name=ML-
+Added Pin To Net: NetName=MR+ Pin=H5-1
+Added Pin To Net: NetName=MR+ Pin=JP2-6
+Added Net: Name=MR+
+Added Pin To Net: NetName=MR- Pin=H5-6
+Added Pin To Net: NetName=MR- Pin=JP2-7
+Added Net: Name=MR-
+Added Pin To Net: NetName=PWM_L Pin=JP3-1
+Added Pin To Net: NetName=PWM_L Pin=JP4-31
+Added Net: Name=PWM_L
+Added Pin To Net: NetName=PWM_R Pin=JP3-7
+Added Pin To Net: NetName=PWM_R Pin=JP4-3
+Added Net: Name=PWM_R
+Added Pin To Net: NetName=R1 Pin=JP3-5
+Added Pin To Net: NetName=R1 Pin=JP5-7
+Added Net: Name=R1
+Added Pin To Net: NetName=R2 Pin=JP3-6
+Added Pin To Net: NetName=R2 Pin=JP5-6
+Added Net: Name=R2
+Added Pin To Net: NetName=STBY Pin=JP3-4
+Added Pin To Net: NetName=STBY Pin=JP4-33
+Added Net: Name=STBY
+Added Pin To Net: NetName=Trig_T3_CH1_E0 Pin=H3-3
+Added Pin To Net: NetName=Trig_T3_CH1_E0 Pin=JP5-12
+Added Net: Name=Trig_T3_CH1_E0
+Added Pin To Net: NetName=Trig_T3_CH2_D13 Pin=H6-3
+Added Pin To Net: NetName=Trig_T3_CH2_D13 Pin=JP6-8
+Added Net: Name=Trig_T3_CH2_D13
+Added Pin To Net: NetName=Trig_T3_CH4_D15 Pin=H8-3
+Added Pin To Net: NetName=Trig_T3_CH4_D15 Pin=JP6-7
+Added Net: Name=Trig_T3_CH4_D15
+Added Pin To Net: NetName=Trig_T4_CH2_B3 Pin=H9-3
+Added Pin To Net: NetName=Trig_T4_CH2_B3 Pin=JP5-34
+Added Net: Name=Trig_T4_CH2_B3
+Added Pin To Net: NetName=Trig_T4_CH3_B5 Pin=H7-3
+Added Pin To Net: NetName=Trig_T4_CH3_B5 Pin=JP5-33
+Added Net: Name=Trig_T4_CH3_B5
+Added Pin To Net: NetName=Trig_T4_CH3_E4 Pin=H2-3
+Added Pin To Net: NetName=Trig_T4_CH3_E4 Pin=JP5-14
+Added Net: Name=Trig_T4_CH3_E4
+Added Member To Class: ClassName=Sheet1 Member=Component C1 221
+Added Member To Class: ClassName=Sheet1 Member=Component C2 221
+Added Member To Class: ClassName=Sheet1 Member=Component JP6 JP 2x5 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component JP7 JP 2x5 2.54
+Added Room: Name=Sheet1

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=T4_CH3_B8 Pin=H2-2
+Removed Pin From Net: NetName=T4_CH2_B7 Pin=H7-2
+Added Pin To Net: NetName=T4_CH3_B8 Pin=H7-2
+Added Pin To Net: NetName=T4_CH2_B7 Pin=H9-2
+Change Net Name : Old Net Name=Trig_T4_CH2_B5 New Net Name=Trig_T4_CH3_B5
+Change Net Name : Old Net Name=Trig_T4_CH3_E4 New Net Name=Trig_T3_CH3_E4
+Change Net Name : Old Net Name=Trig_T8_CH3_B3 New Net Name=Trig_T4_CH2_B3
+Added Pin To Net: NetName=T3_CH3_B0 Pin=H2-2
+Added Pin To Net: NetName=T3_CH3_B0 Pin=JP4-31
+Added Net: Name=T3_CH3_B0
